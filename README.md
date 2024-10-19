@@ -13,11 +13,18 @@
 [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:imrushij@gmail.com)
 [![Whatsapp](https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge)]([https://www.Whatsapp.com/](https://wa.me/9503432790))
 
-## Tech Stack I work on
+## Tech Stack
 
-**Client:** React.js, Next.js, Angular, Javscript, Typescript, Redux, HTML, CSS, TailwindCSS
-
-**Server:** Node.js, Express
+- [React.js](https://react.dev/)
+- [Next.js](https://nextjs.org/)
+- [Angular](https://angular.dev/)
+- [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Typescript](https://www.typescriptlang.org/)
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [TailwindCSS](https://tailwindcss.com/)
+- [dnd kit](https://dndkit.com/)
+- [react-markdown](https://github.com/remarkjs/react-markdown)
 
 ## Support
 
