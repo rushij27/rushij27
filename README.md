@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi there 👋 Im Rushiikesh Jagtap!
 
-<!--
-**rushij27/rushij27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+ I'm Senior Software Engineer with over 3 years of experience in Frontend Development. Developing and maintaining web applications using React, Angular, Redux, JavaScript, TypeScript, HTML, and CSS. Proficient in managing multiple projects simultaneously, mentoring junior developers, and ensuring high-quality code through agile methodologies. Strong analytical and communication skills, coupled with a quick learning ability and a team-oriented mindset.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### "Eat Sleep Code and Repeat , until you Succeed"!👋
+
+## Checkout My Portfolio
+
+[Website]https://rushiikeshjagtap.netlify.app/ 
+
+## Tech Stack
+
+**Client:** React, Redux, TailwindCSS
+
+**Server:** Node, Express
+
+## Support
+
+For support, email abcrushij@gmail.com
+
+## Feedback
+
+If you have any feedback, please reach out to us at abcrushij@gmail.com
+
