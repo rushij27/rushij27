@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Rushiikesh Jagtap!
 
-## 🚀 About Me
+### 🚀 About Me
 
  I'm Senior Software Engineer with over 3 years of experience in Frontend Development. Developing and maintaining web applications using React, Angular, Redux, JavaScript, TypeScript, HTML, and CSS. Proficient in managing multiple projects simultaneously, mentoring junior developers, and ensuring high-quality code through agile methodologies. Strong analytical and communication skills, coupled with a quick learning ability and a team-oriented mindset.
 
@@ -29,9 +29,9 @@
 
 ## Support
 
-For support, email imrushij@gmail.com
+For support, email me at imrushij@gmail.com
 
 ## Feedback
 
-If you have any feedback, please reach out to us at imrushij@gmail.com
+If you have any feedback, please reach out to me at imrushij@gmail.com
 
