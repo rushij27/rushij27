@@ -26,8 +26,6 @@
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [TailwindCSS](https://tailwindcss.com/)
-- [dnd kit](https://dndkit.com/)
-- [react-markdown](https://github.com/remarkjs/react-markdown)
 
 ## Support
 
