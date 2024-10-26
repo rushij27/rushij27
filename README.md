@@ -19,6 +19,7 @@
 
 - [React.js](https://react.dev/)
 - [Next.js](https://nextjs.org/)
+- [Vue.js](https://vuejs.org/)
 - [Angular](https://angular.dev/)
 - [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Typescript](https://www.typescriptlang.org/)
