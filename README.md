@@ -27,8 +27,6 @@
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [TailwindCSS](https://tailwindcss.com/)
 
-Here’s the updated **Buy Me a Coffee** section with your URL included:
-
 
 ## ☕ Support Me  
 
@@ -36,8 +34,6 @@ If you enjoy my projects, find them helpful, or just want to say thanks, conside
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Me-orange?logo=buymeacoffee&style=for-the-badge)](https://buymeacoffee.com/rushi_9)  
 
-
-Let me know if you’d like further customizations! 😊
 
 ## Feedback
 
